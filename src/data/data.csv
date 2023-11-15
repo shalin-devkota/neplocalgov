@@ -1,0 +1,754 @@
+Province,District,Local Level Name,Type
+1,TAPLEJUNG,Sidingba Rural Municipality,Rural Municipality
+1,TAPLEJUNG,Meringden Rural Municipality,Rural Municipality
+1,TAPLEJUNG,Maiwakhola Rural Municipality,Rural Municipality
+1,TAPLEJUNG,Phaktanglung Rural Municipality,Rural Municipality
+1,TAPLEJUNG,Sirijangha Rural Municipality,Rural Municipality
+1,TAPLEJUNG,Mikwakhola Rural Municipality,Rural Municipality
+1,TAPLEJUNG,Aathrai Tribeni Rural Municipality,Rural Municipality
+1,TAPLEJUNG,Pathivara Yangwarak Rural Municipality,Rural Municipality
+1,TAPLEJUNG,Phungling Municipality,Municipality
+1,SANKHUWASABHA,Makalu Rural Municipality,Rural Municipality
+1,SANKHUWASABHA,Chichila Rural Municipality,Rural Municipality
+1,SANKHUWASABHA,Silichong Rural Municipality,Rural Municipality
+1,SANKHUWASABHA,Bhotkhola Rural Municipality,Rural Municipality
+1,SANKHUWASABHA,Sabhapokhari Rural Municipality,Rural Municipality
+1,SANKHUWASABHA,Dharmadevi Municipality,Municipality
+1,SANKHUWASABHA,Madi Municipality,Municipality
+1,SANKHUWASABHA,Panchakhapan Municipality,Municipality
+1,SANKHUWASABHA,Chainpur Municipality,Municipality
+1,SANKHUWASABHA,Khandbari Municipality,Municipality
+1,SOLUKHUMBU,Sotang Rural Municipality,Rural Municipality
+1,SOLUKHUMBU,Mahakulung Rural Municipality,Rural Municipality
+1,SOLUKHUMBU,Likhupike Rural Municipality,Rural Municipality
+1,SOLUKHUMBU,Nechasalyan Rural Municipality,Rural Municipality
+1,SOLUKHUMBU,Thulung Dudhkoshi Rural Municipality,Rural Municipality
+1,SOLUKHUMBU,Maapya Dudhkoshi Rural Municipality,Rural Municipality
+1,SOLUKHUMBU,Khumbupasanglahmu Rural Municipality,Rural Municipality
+1,SOLUKHUMBU,Solududhakunda Municipality,Municipality
+1,OKHALDHUNGA,Likhu Rural Municipality,Rural Municipality
+1,OKHALDHUNGA,Molung Rural Municipality,Rural Municipality
+1,OKHALDHUNGA,Sunkoshi Rural Municipality,Rural Municipality
+1,OKHALDHUNGA,Champadevi Rural Municipality,Rural Municipality
+1,OKHALDHUNGA,Chisankhugadhi Rural Municipality,Rural Municipality
+1,OKHALDHUNGA,Khijidemba Rural Municipality,Rural Municipality
+1,OKHALDHUNGA,Manebhanjyang Rural Municipality,Rural Municipality
+1,OKHALDHUNGA,Siddhicharan Municipality,Municipality
+1,KHOTANG,Sakela Rural Municipality,Rural Municipality
+1,KHOTANG,Khotehang Rural Municipality,Rural Municipality
+1,KHOTANG,Barahapokhari Rural Municipality,Rural Municipality
+1,KHOTANG,Ainselukhark Rural Municipality,Rural Municipality
+1,KHOTANG,Rawa Besi Rural Municipality,Rural Municipality
+1,KHOTANG,Kepilasagadhi Rural Municipality,Rural Municipality
+1,KHOTANG,Jantedhunga Rural Municipality,Rural Municipality
+1,KHOTANG,Diprung Chuichumma Rural Municipality,Rural Municipality
+1,KHOTANG,Halesi Tuwachung Municipality,Municipality
+1,KHOTANG,Diktel Rupakot Majhuwagadhi Municipality,Municipality
+1,BHOJPUR,Arun Rural Municipality,Rural Municipality
+1,BHOJPUR,Aamchowk Rural Municipality,Rural Municipality
+1,BHOJPUR,Hatuwagadhi Rural Municipality,Rural Municipality
+1,BHOJPUR,Pauwadungma Rural Municipality,Rural Municipality
+1,BHOJPUR,Temkemaiyung Rural Municipality,Rural Municipality
+1,BHOJPUR,Salpasilichho Rural Municipality,Rural Municipality
+1,BHOJPUR,Ramprasad Rai Rural Municipality,Rural Municipality
+1,BHOJPUR,Shadananda Municipality,Municipality
+1,BHOJPUR,Bhojpur Municipality,Municipality
+1,DHANKUTA,Chaubise Rural Municipality,Rural Municipality
+1,DHANKUTA,Shahidbhumi Rural Municipality,Rural Municipality
+1,DHANKUTA,Sangurigadhi Rural Municipality,Rural Municipality
+1,DHANKUTA,Chhathar Jorpati Rural Municipality,Rural Municipality
+1,DHANKUTA,Pakhribas Municipality,Municipality
+1,DHANKUTA,Mahalaxmi Municipality,Municipality
+1,DHANKUTA,Dhankuta Municipality,Municipality
+1,TERHATHUM,Chhathar Rural Municipality,Rural Municipality
+1,TERHATHUM,Phedap Rural Municipality,Rural Municipality
+1,TERHATHUM,Aathrai Rural Municipality,Rural Municipality
+1,TERHATHUM,Menchayam Rural Municipality,Rural Municipality
+1,TERHATHUM,Laligurans Municipality,Municipality
+1,TERHATHUM,Myanglung Municipality,Municipality
+1,PANCHTHAR,Yangwarak Rural Municipality,Rural Municipality
+1,PANCHTHAR,Hilihang Rural Municipality,Rural Municipality
+1,PANCHTHAR,Falelung Rural Municipality,Rural Municipality
+1,PANCHTHAR,Tumbewa Rural Municipality,Rural Municipality
+1,PANCHTHAR,Kummayak Rural Municipality,Rural Municipality
+1,PANCHTHAR,Miklajung Rural Municipality,Rural Municipality
+1,PANCHTHAR,Falgunanda Rural Municipality,Rural Municipality
+1,PANCHTHAR,Phidim Municipality,Municipality
+1,ILAM,Rong Rural Municipality,Rural Municipality
+1,ILAM,Mangsebung Rural Municipality,Rural Municipality
+1,ILAM,Chulachuli Rural Municipality,Rural Municipality
+1,ILAM,Sandakpur Rural Municipality,Rural Municipality
+1,ILAM,Fakphokthum Rural Municipality,Rural Municipality
+1,ILAM,Maijogmai Rural Municipality,Rural Municipality
+1,ILAM,Illam Municipality,Municipality
+1,ILAM,Mai Municipality,Municipality
+1,ILAM,Deumai Municipality,Municipality
+1,ILAM,Suryodaya Municipality,Municipality
+1,JHAPA,Kamal Rural Municipality,Rural Municipality
+1,JHAPA,Jhapa Rural Municipality,Rural Municipality
+1,JHAPA,Kachankawal Rural Municipality,Rural Municipality
+1,JHAPA,Gauriganj Rural Municipality,Rural Municipality
+1,JHAPA,Barhadashi Rural Municipality,Rural Municipality
+1,JHAPA,Haldibari Rural Municipality,Rural Municipality
+1,JHAPA,Buddhashanti Rural Municipality,Rural Municipality
+1,JHAPA,Shivasataxi Municipality,Municipality
+1,JHAPA,Bhadrapur Municipality,Municipality
+1,JHAPA,Kankai Municipality,Municipality
+1,JHAPA,Birtamod Municipality,Municipality
+1,JHAPA,Mechinagar Municipality,Municipality
+1,JHAPA,Damak Municipality,Municipality
+1,JHAPA,Arjundhara Municipality,Municipality
+1,JHAPA,Gauradhaha Municipality,Municipality
+1,MORANG,Jahada Rural Municipality,Rural Municipality
+1,MORANG,Katahari Rural Municipality,Rural Municipality
+1,MORANG,Gramthan Rural Municipality,Rural Municipality
+1,MORANG,Dhanpalthan Rural Municipality,Rural Municipality
+1,MORANG,Kerabari Rural Municipality,Rural Municipality
+1,MORANG,Budhiganga Rural Municipality,Rural Municipality
+1,MORANG,Kanepokhari Rural Municipality,Rural Municipality
+1,MORANG,Miklajung Rural Municipality,Rural Municipality
+1,MORANG,Letang Municipality,Municipality
+1,MORANG,Sunwarshi Municipality,Municipality
+1,MORANG,Rangeli Municipality,Municipality
+1,MORANG,Patahrishanishchare Municipality,Municipality
+1,MORANG,Biratnagar Metropolitian City,Metropolitian City
+1,MORANG,Uralabari Municipality,Municipality
+1,MORANG,Belbari Municipality,Municipality
+1,MORANG,Sundarharaicha Municipality,Municipality
+1,MORANG,Ratuwamai Municipality,Municipality
+1,SUNSARI,Gadhi Rural Municipality,Rural Municipality
+1,SUNSARI,Koshi Rural Municipality,Rural Municipality
+1,SUNSARI,Barju Rural Municipality,Rural Municipality
+1,SUNSARI,Harinagar Rural Municipality,Rural Municipality
+1,SUNSARI,Dewanganj Rural Municipality,Rural Municipality
+1,SUNSARI,Bhokraha Narsing Rural Municipality,Rural Municipality
+1,SUNSARI,Ramdhuni Municipality,Municipality
+1,SUNSARI,Barahchhetra Municipality,Municipality
+1,SUNSARI,Duhabi Municipality,Municipality
+1,SUNSARI,Inaruwa Municipality,Municipality
+1,SUNSARI,Dharan Sub-Metropolitian City,Sub-Metropolitian City
+1,SUNSARI,Itahari Sub-Metropolitian City,Sub-Metropolitian City
+1,UDAYAPUR,Tapli Rural Municipality,Rural Municipality
+1,UDAYAPUR,Rautamai Rural Municipality,Rural Municipality
+1,UDAYAPUR,Udayapurgadhi Rural Municipality,Rural Municipality
+1,UDAYAPUR,Limchungbung Rural Municipality,Rural Municipality
+1,UDAYAPUR,Chaudandigadhi Municipality,Municipality
+1,UDAYAPUR,Triyuga Municipality,Municipality
+1,UDAYAPUR,Katari Municipality,Municipality
+1,UDAYAPUR,Belaka Municipality,Municipality
+2,SAPTARI,Rajgadh Rural Municipality,Rural Municipality
+2,SAPTARI,Rupani Rural Municipality,Rural Municipality
+2,SAPTARI,Tirahut Rural Municipality,Rural Municipality
+2,SAPTARI,Mahadeva Rural Municipality,Rural Municipality
+2,SAPTARI,Bishnupur Rural Municipality,Rural Municipality
+2,SAPTARI,Chhinnamasta Rural Municipality,Rural Municipality
+2,SAPTARI,Balan Bihul Rural Municipality,Rural Municipality
+2,SAPTARI,Tilathi Koiladi Rural Municipality,Rural Municipality
+2,SAPTARI,Agnisair Krishna Savaran Rural Municipality,Rural Municipality
+2,SAPTARI,Hanumannagar Kankalini Municipality,Municipality
+2,SAPTARI,Kanchanrup Municipality,Municipality
+2,SAPTARI,Rajbiraj Municipality,Municipality
+2,SAPTARI,Khadak Municipality,Municipality
+2,SAPTARI,Dakneshwori Municipality,Municipality
+2,SAPTARI,Saptakoshi Rural Municipality,Municipality
+2,SAPTARI,Surunga Municipality,Municipality
+2,SAPTARI,Shambhunath Municipality,Municipality
+2,SAPTARI,Bode Barsain Municipality,Municipality
+2,SIRAHA,Aurahi Rural Municipality,Rural Municipality
+2,SIRAHA,Naraha Rural Municipality,Rural Municipality
+2,SIRAHA,Arnama Rural Municipality,Rural Municipality
+2,SIRAHA,Bhagawanpur Rural Municipality,Rural Municipality
+2,SIRAHA,Nawarajpur Rural Municipality,Rural Municipality
+2,SIRAHA,Bishnupur Rural Municipality,Rural Municipality
+2,SIRAHA,Bariyarpatti Rural Municipality,Rural Municipality
+2,SIRAHA,Laxmipur Patari Rural Municipality,Rural Municipality
+2,SIRAHA,Sakhuwanankarkatti Rural Municipality,Rural Municipality
+2,SIRAHA,Mirchaiya Municipality,Municipality
+2,SIRAHA,Lahan Municipality,Municipality
+2,SIRAHA,Siraha Municipality,Municipality
+2,SIRAHA,Dhangadhimai Municipality,Municipality
+2,SIRAHA,Kalyanpur Municipality,Municipality
+2,SIRAHA,Karjanha Municipality,Municipality
+2,SIRAHA,Golbazar Municipality,Municipality
+2,SIRAHA,Sukhipur Municipality,Municipality
+2,DHANUSA,Aaurahi Rural Municipality,Rural Municipality
+2,DHANUSA,Dhanauji Rural Municipality,Rural Municipality
+2,DHANUSA,Bateshwor Rural Municipality,Rural Municipality
+2,DHANUSA,Janaknandani Rural Municipality,Rural Municipality
+2,DHANUSA,Lakshminiya Rural Municipality,Rural Municipality
+2,DHANUSA,Mukhiyapatti Musarmiya Rural Municipality,Rural Municipality
+2,DHANUSA,Mithila Bihari Municipality,Municipality
+2,DHANUSA,Kamala Municipality,Municipality
+2,DHANUSA,Nagarain Municipality,Municipality
+2,DHANUSA,Ganeshman Charnath Municipality,Municipality
+2,DHANUSA,Mithila Municipality,Municipality
+2,DHANUSA,Dhanusadham Municipality,Municipality
+2,DHANUSA,Bideha Municipality,Municipality
+2,DHANUSA,Sabaila Municipality,Municipality
+2,DHANUSA,Hansapur Municipality,Municipality
+2,DHANUSA,Janakpurdham Sub-Metropolitian City,Sub-Metropolitian City
+2,DHANUSA,Sahidnagar Municipality,Municipality
+2,DHANUSA,Chhireshwornath Municipality,Municipality
+2,MAHOTTARI,Pipra Rural Municipality,Rural Municipality
+2,MAHOTTARI,Sonama Rural Municipality,Rural Municipality
+2,MAHOTTARI,Samsi Rural Municipality,Rural Municipality
+2,MAHOTTARI,Ekdanra Rural Municipality,Rural Municipality
+2,MAHOTTARI,Mahottari Rural Municipality,Rural Municipality
+2,MAHOTTARI,Gaushala Municipality,Municipality
+2,MAHOTTARI,Ramgopalpur Municipality,Municipality
+2,MAHOTTARI,Aurahi Municipality,Municipality
+2,MAHOTTARI,Bardibas Municipality,Municipality
+2,MAHOTTARI,Bhangaha Municipality,Municipality
+2,MAHOTTARI,Jaleswor Municipality,Municipality
+2,MAHOTTARI,Balwa Municipality,Municipality
+2,MAHOTTARI,Manra Siswa Municipality,Municipality
+2,MAHOTTARI,Matihani Municipality,Municipality
+2,MAHOTTARI,Loharpatti Municipality,Municipality
+2,SARLAHI,Dhankaul Rural Municipality,Rural Municipality
+2,SARLAHI,Parsa Rural Municipality,Rural Municipality
+2,SARLAHI,Bishnu Rural Municipality,Rural Municipality
+2,SARLAHI,Ramnagar Rural Municipality,Rural Municipality
+2,SARLAHI,Kaudena Rural Municipality,Rural Municipality
+2,SARLAHI,Basbariya Rural Municipality,Rural Municipality
+2,SARLAHI,Chandranagar Rural Municipality,Rural Municipality
+2,SARLAHI,Chakraghatta Rural Municipality,Rural Municipality
+2,SARLAHI,Bramhapuri Rural Municipality,Rural Municipality
+2,SARLAHI,Barahathawa Municipality,Municipality
+2,SARLAHI,Haripur Municipality,Municipality
+2,SARLAHI,Ishworpur Municipality,Municipality
+2,SARLAHI,Lalbandi Municipality,Municipality
+2,SARLAHI,Malangawa Municipality,Municipality
+2,SARLAHI,Kabilasi Municipality,Municipality
+2,SARLAHI,Bagmati Municipality,Municipality
+2,SARLAHI,Hariwan Municipality,Municipality
+2,SARLAHI,Balara Municipality,Municipality
+2,SARLAHI,Haripurwa Municipality,Municipality
+2,SARLAHI,Godaita Municipality,Municipality
+2,RAUTAHAT,Yemunamai Rural Municipality,Rural Municipality
+2,RAUTAHAT,Durga Bhagwati Rural Municipality,Rural Municipality
+2,RAUTAHAT,Katahariya Municipality,Municipality
+2,RAUTAHAT,Maulapur Municipality,Municipality
+2,RAUTAHAT,Madhav Narayan Municipality,Municipality
+2,RAUTAHAT,Gaur Municipality,Municipality
+2,RAUTAHAT,Gujara Municipality,Municipality
+2,RAUTAHAT,Garuda Municipality,Municipality
+2,RAUTAHAT,Ishanath Municipality,Municipality
+2,RAUTAHAT,Chandrapur Municipality,Municipality
+2,RAUTAHAT,Dewahhi Gonahi Municipality,Municipality
+2,RAUTAHAT,Brindaban Municipality,Municipality
+2,RAUTAHAT,Rajpur Municipality,Municipality
+2,RAUTAHAT,Rajdevi Municipality,Municipality
+2,RAUTAHAT,Gadhimai Municipality,Municipality
+2,RAUTAHAT,Phatuwa Bijayapur Municipality,Municipality
+2,RAUTAHAT,Baudhimai Municipality,Municipality
+2,RAUTAHAT,Paroha Municipality,Municipality
+2,BARA,Pheta Rural Municipality,Rural Municipality
+2,BARA,Devtal Rural Municipality,Rural Municipality
+2,BARA,Prasauni Rural Municipality,Rural Municipality
+2,BARA,Suwarna Rural Municipality,Rural Municipality
+2,BARA,Baragadhi Rural Municipality,Rural Municipality
+2,BARA,Karaiyamai Rural Municipality,Rural Municipality
+2,BARA,Parwanipur Rural Municipality,Rural Municipality
+2,BARA,Bishrampur Rural Municipality,Rural Municipality
+2,BARA,Adarshkotwal Rural Municipality,Rural Municipality
+2,BARA,Jitpur Simara Sub-Metropolitian City,Sub-Metropolitian City
+2,BARA,Kalaiya Sub-Metropolitian City,Sub-Metropolitian City
+2,BARA,Pacharauta Municipality,Municipality
+2,BARA,Nijgadh Municipality,Municipality
+2,BARA,Simraungadh Municipality,Municipality
+2,BARA,Mahagadhimai Municipality,Municipality
+2,BARA,Kolhabi Municipality,Municipality
+2,PARSA,Thori Rural Municipality,Rural Municipality
+2,PARSA,Dhobini Rural Municipality,Rural Municipality
+2,PARSA,Chhipaharmai Rural Municipality,Rural Municipality
+2,PARSA,Jirabhawani Rural Municipality,Rural Municipality
+2,PARSA,Jagarnathpur Rural Municipality,Rural Municipality
+2,PARSA,Kalikamai Rural Municipality,Rural Municipality
+2,PARSA,Bindabasini Rural Municipality,Rural Municipality
+2,PARSA,Pakahamainpur Rural Municipality,Rural Municipality
+2,PARSA,SakhuwaPrasauni Rural Municipality,Rural Municipality
+2,PARSA,Paterwasugauli Rural Municipality,Rural Municipality
+2,PARSA,Birgunj Metropolitian City,Metropolitian City
+2,PARSA,Bahudaramai Municipality,Municipality
+2,PARSA,Pokhariya Municipality,Municipality
+2,PARSA,Parsagadhi Municipality,Municipality
+Bagmati,DOLAKHA,Bigu Rural Municipality,Rural Municipality
+Bagmati,DOLAKHA,Sailung Rural Municipality,Rural Municipality
+Bagmati,DOLAKHA,Melung Rural Municipality,Rural Municipality
+Bagmati,DOLAKHA,Baiteshwor Rural Municipality,Rural Municipality
+Bagmati,DOLAKHA,Tamakoshi Rural Municipality,Rural Municipality
+Bagmati,DOLAKHA,Gaurishankar Rural Municipality,Rural Municipality
+Bagmati,DOLAKHA,Kalinchok Rural Municipality,Rural Municipality
+Bagmati,DOLAKHA,Jiri Municipality,Municipality
+Bagmati,DOLAKHA,Bhimeshwor Municipality,Municipality
+Bagmati,SINDHUPALCHOK,Jugal Rural Municipality,Rural Municipality
+Bagmati,SINDHUPALCHOK,Balefi Rural Municipality,Rural Municipality
+Bagmati,SINDHUPALCHOK,Sunkoshi Rural Municipality,Rural Municipality
+Bagmati,SINDHUPALCHOK,Helambu Rural Municipality,Rural Municipality
+Bagmati,SINDHUPALCHOK,Bhotekoshi Rural Municipality,Rural Municipality
+Bagmati,SINDHUPALCHOK,Lisangkhu Pakhar Rural Municipality,Rural Municipality
+Bagmati,SINDHUPALCHOK,Indrawati Rural Municipality,Rural Municipality
+Bagmati,SINDHUPALCHOK,Tripurasundari Rural Municipality,Rural Municipality
+Bagmati,SINDHUPALCHOK,Panchpokhari Thangpal Rural Municipality,Rural Municipality
+Bagmati,SINDHUPALCHOK,Chautara SangachokGadhi Municipality,Municipality
+Bagmati,SINDHUPALCHOK,Barhabise Municipality,Municipality
+Bagmati,SINDHUPALCHOK,Melamchi Municipality,Municipality
+Bagmati,RASUWA,Kalika Rural Municipality,Rural Municipality
+Bagmati,RASUWA,Naukunda Rural Municipality,Rural Municipality
+Bagmati,RASUWA,Uttargaya Rural Municipality,Rural Municipality
+Bagmati,RASUWA,Gosaikunda Rural Municipality,Rural Municipality
+Bagmati,RASUWA,Amachodingmo Rural Municipality,Rural Municipality
+Bagmati,DHADING,Gajuri Rural Municipality,Rural Municipality
+Bagmati,DHADING,Galchi Rural Municipality,Rural Municipality
+Bagmati,DHADING,Thakre Rural Municipality,Rural Municipality
+Bagmati,DHADING,Siddhalek Rural Municipality,Rural Municipality
+Bagmati,DHADING,Khaniyabash Rural Municipality,Rural Municipality
+Bagmati,DHADING,Jwalamukhi Rural Municipality,Rural Municipality
+Bagmati,DHADING,Gangajamuna Rural Municipality,Rural Municipality
+Bagmati,DHADING,Rubi Valley Rural Municipality,Rural Municipality
+Bagmati,DHADING,Tripura Sundari Rural Municipality,Rural Municipality
+Bagmati,DHADING,Netrawati Dabjong Rural Municipality,Rural Municipality
+Bagmati,DHADING,Benighat Rorang Rural Municipality,Rural Municipality
+Bagmati,DHADING,Nilakantha Municipality,Municipality
+Bagmati,DHADING,Dhunibesi Municipality,Municipality
+Bagmati,NUWAKOT,Kakani Rural Municipality,Rural Municipality
+Bagmati,NUWAKOT,Tadi Rural Municipality,Rural Municipality
+Bagmati,NUWAKOT,Likhu Rural Municipality,Rural Municipality
+Bagmati,NUWAKOT,Myagang Rural Municipality,Rural Municipality
+Bagmati,NUWAKOT,Shivapuri Rural Municipality,Rural Municipality
+Bagmati,NUWAKOT,Kispang Rural Municipality,Rural Municipality
+Bagmati,NUWAKOT,Suryagadhi Rural Municipality,Rural Municipality
+Bagmati,NUWAKOT,Tarkeshwar Rural Municipality,Rural Municipality
+Bagmati,NUWAKOT,Panchakanya Rural Municipality,Rural Municipality
+Bagmati,NUWAKOT,Dupcheshwar Rural Municipality,Rural Municipality
+Bagmati,NUWAKOT,Belkotgadhi Municipality,Municipality
+Bagmati,NUWAKOT,Bidur Municipality,Municipality
+Bagmati,KATHMANDU,Kirtipur Municipality,Municipality
+Bagmati,KATHMANDU,Shankharapur Municipality,Municipality
+Bagmati,KATHMANDU,Nagarjun Municipality,Municipality
+Bagmati,KATHMANDU,Kageshwori Manahora Municipality,Municipality
+Bagmati,KATHMANDU,Dakshinkali Municipality,Municipality
+Bagmati,KATHMANDU,Budhanilakantha Municipality,Municipality
+Bagmati,KATHMANDU,Tarakeshwor Municipality,Municipality
+Bagmati,KATHMANDU,Kathmandu Metropolitian City,Metropolitian City
+Bagmati,KATHMANDU,Tokha Municipality,Municipality
+Bagmati,KATHMANDU,Chandragiri Municipality,Municipality
+Bagmati,KATHMANDU,Gokarneshwor Municipality,Municipality
+Bagmati,BHAKTAPUR,Changunarayan Municipality,Municipality
+Bagmati,BHAKTAPUR,Suryabinayak Municipality,Municipality
+Bagmati,BHAKTAPUR,Bhaktapur Municipality,Municipality
+Bagmati,BHAKTAPUR,Madhyapur Thimi Municipality,Municipality
+Bagmati,LALITPUR,Bagmati Rural Municipality,Rural Municipality
+Bagmati,LALITPUR,Mahankal Rural Municipality,Rural Municipality
+Bagmati,LALITPUR,Konjyosom Rural Municipality,Rural Municipality
+Bagmati,LALITPUR,Lalitpur Metropolitian City,Metropolitian City
+Bagmati,LALITPUR,Mahalaxmi Municipality,Municipality
+Bagmati,LALITPUR,Godawari Municipality,Municipality
+Bagmati,KAVREPALANCHOK,Roshi Rural Municipality,Rural Municipality
+Bagmati,KAVREPALANCHOK,Temal Rural Municipality,Rural Municipality
+Bagmati,KAVREPALANCHOK,Bhumlu Rural Municipality,Rural Municipality
+Bagmati,KAVREPALANCHOK,Mahabharat Rural Municipality,Rural Municipality
+Bagmati,KAVREPALANCHOK,Bethanchowk Rural Municipality,Rural Municipality
+Bagmati,KAVREPALANCHOK,Khanikhola Rural Municipality,Rural Municipality
+Bagmati,KAVREPALANCHOK,Chaurideurali Rural Municipality,Rural Municipality
+Bagmati,KAVREPALANCHOK,Banepa Municipality,Municipality
+Bagmati,KAVREPALANCHOK,Mandandeupur Municipality,Municipality
+Bagmati,KAVREPALANCHOK,Dhulikhel Municipality,Municipality
+Bagmati,KAVREPALANCHOK,Panauti Municipality,Municipality
+Bagmati,KAVREPALANCHOK,Namobuddha Municipality,Municipality
+Bagmati,KAVREPALANCHOK,Panchkhal Municipality,Municipality
+Bagmati,RAMECHHAP,Sunapati Rural Municipality,Rural Municipality
+Bagmati,RAMECHHAP,Doramba Rural Municipality,Rural Municipality
+Bagmati,RAMECHHAP,Umakunda Rural Municipality,Rural Municipality
+Bagmati,RAMECHHAP,Khadadevi Rural Municipality,Rural Municipality
+Bagmati,RAMECHHAP,Gokulganga Rural Municipality,Rural Municipality
+Bagmati,RAMECHHAP,Likhu Tamakoshi Rural Municipality,Rural Municipality
+Bagmati,RAMECHHAP,Manthali Municipality,Municipality
+Bagmati,RAMECHHAP,Ramechhap Municipality,Municipality
+Bagmati,SINDHULI,Marin Rural Municipality,Rural Municipality
+Bagmati,SINDHULI,Phikkal Rural Municipality,Rural Municipality
+Bagmati,SINDHULI,Tinpatan Rural Municipality,Rural Municipality
+Bagmati,SINDHULI,Sunkoshi Rural Municipality,Rural Municipality
+Bagmati,SINDHULI,Golanjor Rural Municipality,Rural Municipality
+Bagmati,SINDHULI,Ghanglekh Rural Municipality,Rural Municipality
+Bagmati,SINDHULI,Hariharpurgadhi Rural Municipality,Rural Municipality
+Bagmati,SINDHULI,Dudhouli Municipality,Municipality
+Bagmati,SINDHULI,Kamalamai Municipality,Municipality
+Bagmati,MAKWANPUR,Bakaiya Rural Municipality,Rural Municipality
+Bagmati,MAKWANPUR,Kailash Rural Municipality,Rural Municipality
+Bagmati,MAKWANPUR,Manahari Rural Municipality,Rural Municipality
+Bagmati,MAKWANPUR,Bhimphedi Rural Municipality,Rural Municipality
+Bagmati,MAKWANPUR,Bagmati Rural Municipality,Rural Municipality
+Bagmati,MAKWANPUR,Raksirang Rural Municipality,Rural Municipality
+Bagmati,MAKWANPUR,Makawanpurgadhi Rural Municipality,Rural Municipality
+Bagmati,MAKWANPUR,Indrasarowar Rural Municipality,Rural Municipality
+Bagmati,MAKWANPUR,Hetauda Sub-Metropolitian City,Sub-Metropolitian City
+Bagmati,MAKWANPUR,Thaha Municipality,Municipality
+Bagmati,CHITAWAN,Ichchhyakamana Rural Municipality,Rural Municipality
+Bagmati,CHITAWAN,Bharatpur Metropolitian City,Metropolitian City
+Bagmati,CHITAWAN,Kalika Municipality,Municipality
+Bagmati,CHITAWAN,Khairahani Municipality,Municipality
+Bagmati,CHITAWAN,Madi Municipality,Municipality
+Bagmati,CHITAWAN,Rapti Municipality,Municipality
+Bagmati,CHITAWAN,Ratnanagar Municipality,Municipality
+Gandaki,GORKHA,Gandaki Rural Municipality,Rural Municipality
+Gandaki,GORKHA,Dharche Rural Municipality,Rural Municipality
+Gandaki,GORKHA,Aarughat Rural Municipality,Rural Municipality
+Gandaki,GORKHA,Ajirkot Rural Municipality,Rural Municipality
+Gandaki,GORKHA,Sahid Lakhan Rural Municipality,Rural Municipality
+Gandaki,GORKHA,Siranchok Rural Municipality,Rural Municipality
+Gandaki,GORKHA,Bhimsenthapa Rural Municipality,Rural Municipality
+Gandaki,GORKHA,Chum Nubri Rural Municipality,Rural Municipality
+Gandaki,GORKHA,Barpak Sulikot Rural Municipality,Rural Municipality
+Gandaki,GORKHA,Palungtar Municipality,Municipality
+Gandaki,GORKHA,Gorkha Municipality,Municipality
+Gandaki,MANANG,Chame Rural Municipality,Rural Municipality
+Gandaki,MANANG,Narshon Rural Municipality,Rural Municipality
+Gandaki,MANANG,Narpa Bhumi Rural Municipality,Rural Municipality
+Gandaki,MANANG,Manang Ingshyang Rural Municipality,Rural Municipality
+Gandaki,MUSTANG,Thasang Rural Municipality,Rural Municipality
+Gandaki,MUSTANG,Gharapjhong Rural Municipality,Rural Municipality
+Gandaki,MUSTANG,Lomanthang Rural Municipality,Rural Municipality
+Gandaki,MUSTANG,Lo-Ghekar Damodarkunda Rural Municipality,Rural Municipality
+Gandaki,MUSTANG,Waragung Muktikhsetra Rural Municipality,Rural Municipality
+Gandaki,MYAGDI,Mangala Rural Municipality,Rural Municipality
+Gandaki,MYAGDI,Malika Rural Municipality,Rural Municipality
+Gandaki,MYAGDI,Raghuganga Rural Municipality,Rural Municipality
+Gandaki,MYAGDI,Dhaulagiri Rural Municipality,Rural Municipality
+Gandaki,MYAGDI,Annapurna Rural Municipality,Rural Municipality
+Gandaki,MYAGDI,Beni Municipality,Municipality
+Gandaki,KASKI,Rupa Rural Municipality,Rural Municipality
+Gandaki,KASKI,Madi Rural Municipality,Rural Municipality
+Gandaki,KASKI,Annapurna Rural Municipality,Rural Municipality
+Gandaki,KASKI,Machhapuchchhre Rural Municipality,Rural Municipality
+Gandaki,KASKI,Pokhara Metropolitian City,Metropolitian City
+Gandaki,LAMJUNG,Dordi Rural Municipality,Rural Municipality
+Gandaki,LAMJUNG,Dudhpokhari Rural Municipality,Rural Municipality
+Gandaki,LAMJUNG,Marsyangdi Rural Municipality,Rural Municipality
+Gandaki,LAMJUNG,Kwholasothar Rural Municipality,Rural Municipality
+Gandaki,LAMJUNG,Sundarbazar Municipality,Municipality
+Gandaki,LAMJUNG,Besishahar Municipality,Municipality
+Gandaki,LAMJUNG,Rainas Municipality,Municipality
+Gandaki,LAMJUNG,MadhyaNepal Municipality,Municipality
+Gandaki,TANAHU,Ghiring Rural Municipality,Rural Municipality
+Gandaki,TANAHU,Devghat Rural Municipality,Rural Municipality
+Gandaki,TANAHU,Rhishing Rural Municipality,Rural Municipality
+Gandaki,TANAHU,Myagde Rural Municipality,Rural Municipality
+Gandaki,TANAHU,Bandipur Rural Municipality,Rural Municipality
+Gandaki,TANAHU,Anbukhaireni Rural Municipality,Rural Municipality
+Gandaki,TANAHU,Byas Municipality,Municipality
+Gandaki,TANAHU,Shuklagandaki Municipality,Municipality
+Gandaki,TANAHU,Bhimad Municipality,Municipality
+Gandaki,TANAHU,Bhanu Municipality,Municipality
+Gandaki,NAWALPARASI EAST,Baudeekali Rural Municipality,Rural Municipality
+Gandaki,NAWALPARASI EAST,Bulingtar Rural Municipality,Rural Municipality
+Gandaki,NAWALPARASI EAST,Hupsekot Rural Municipality,Rural Municipality
+Gandaki,NAWALPARASI EAST,Binayee Tribeni Rural Municipality,Rural Municipality
+Gandaki,NAWALPARASI EAST,Madhyabindu Municipality,Municipality
+Gandaki,NAWALPARASI EAST,Devchuli Municipality,Municipality
+Gandaki,NAWALPARASI EAST,Gaidakot Municipality,Municipality
+Gandaki,NAWALPARASI EAST,Kawasoti Municipality,Municipality
+Gandaki,SYANGJA,Harinas Rural Municipality,Rural Municipality
+Gandaki,SYANGJA,Biruwa Rural Municipality,Rural Municipality
+Gandaki,SYANGJA,Aandhikhola Rural Municipality,Rural Municipality
+Gandaki,SYANGJA,Phedikhola Rural Municipality,Rural Municipality
+Gandaki,SYANGJA,Kaligandagi Rural Municipality,Rural Municipality
+Gandaki,SYANGJA,Arjunchaupari Rural Municipality,Rural Municipality
+Gandaki,SYANGJA,Putalibazar Municipality,Municipality
+Gandaki,SYANGJA,Bhirkot Municipality,Municipality
+Gandaki,SYANGJA,Galyang Municipality,Municipality
+Gandaki,SYANGJA,Chapakot Municipality,Municipality
+Gandaki,SYANGJA,Waling Municipality,Municipality
+Gandaki,PARBAT,Modi Rural Municipality,Rural Municipality
+Gandaki,PARBAT,Painyu Rural Municipality,Rural Municipality
+Gandaki,PARBAT,Jaljala Rural Municipality,Rural Municipality
+Gandaki,PARBAT,Bihadi Rural Municipality,Rural Municipality
+Gandaki,PARBAT,Mahashila Rural Municipality,Rural Municipality
+Gandaki,PARBAT,Kushma Municipality,Municipality
+Gandaki,PARBAT,Phalebas Municipality,Municipality
+Gandaki,BAGLUNG,Bareng Rural Municipality,Rural Municipality
+Gandaki,BAGLUNG,Badigad Rural Municipality,Rural Municipality
+Gandaki,BAGLUNG,Nisikhola Rural Municipality,Rural Municipality
+Gandaki,BAGLUNG,Kanthekhola Rural Municipality,Rural Municipality
+Gandaki,BAGLUNG,Tara Khola Rural Municipality,Rural Municipality
+Gandaki,BAGLUNG,Taman Khola Rural Municipality,Rural Municipality
+Gandaki,BAGLUNG,Jaimuni Municipality,Municipality
+Gandaki,BAGLUNG,Baglung Municipality,Municipality
+Gandaki,BAGLUNG,Galkot Municipality,Municipality
+Gandaki,BAGLUNG,Dhorpatan Municipality,Municipality
+5,RUKUM EAST,Bhume Rural Municipality,Rural Municipality
+5,RUKUM EAST,Sisne Rural Municipality,Rural Municipality
+5,RUKUM EAST,Putha Uttarganga Rural Municipality,Rural Municipality
+5,ROLPA,Madi Rural Municipality,Rural Municipality
+5,ROLPA,Thawang Rural Municipality,Rural Municipality
+5,ROLPA,Sunchhahari Rural Municipality,Rural Municipality
+5,ROLPA,Lungri Rural Municipality,Rural Municipality
+5,ROLPA,Gangadev Rural Municipality,Rural Municipality
+5,ROLPA,Tribeni Rural Municipality,Rural Municipality
+5,ROLPA,Pariwartan Rural Municipality,Rural Municipality
+5,ROLPA,Runtigadi Rural Municipality,Rural Municipality
+5,ROLPA,Sunil Smriti Rural Municipality,Rural Municipality
+5,ROLPA,Rolpa Municipality,Municipality
+5,PYUTHAN,Ayirabati Rural Municipality,Rural Municipality
+5,PYUTHAN,Gaumukhi Rural Municipality,Rural Municipality
+5,PYUTHAN,Jhimruk Rural Municipality,Rural Municipality
+5,PYUTHAN,Naubahini Rural Municipality,Rural Municipality
+5,PYUTHAN,Mandavi Rural Municipality,Rural Municipality
+5,PYUTHAN,Mallarani Rural Municipality,Rural Municipality
+5,PYUTHAN,Sarumarani Rural Municipality,Rural Municipality
+5,PYUTHAN,Pyuthan Municipality,Municipality
+5,PYUTHAN,Sworgadwary Municipality,Municipality
+5,GULMI,Ruru Rural Municipality,Rural Municipality
+5,GULMI,Isma Rural Municipality,Rural Municipality
+5,GULMI,Madane Rural Municipality,Rural Municipality
+5,GULMI,Malika Rural Municipality,Rural Municipality
+5,GULMI,Chatrakot Rural Municipality,Rural Municipality
+5,GULMI,Dhurkot Rural Municipality,Rural Municipality
+5,GULMI,Satyawati Rural Municipality,Rural Municipality
+5,GULMI,Chandrakot Rural Municipality,Rural Municipality
+5,GULMI,Kaligandaki Rural Municipality,Rural Municipality
+5,GULMI,Gulmidarbar Rural Municipality,Rural Municipality
+5,GULMI,Resunga Municipality,Municipality
+5,GULMI,Musikot Municipality,Municipality
+5,ARGHAKHANCHI,Panini Rural Municipality,Rural Municipality
+5,ARGHAKHANCHI,Chhatradev Rural Municipality,Rural Municipality
+5,ARGHAKHANCHI,Malarani Rural Municipality,Rural Municipality
+5,ARGHAKHANCHI,Bhumekasthan Municipality,Municipality
+5,ARGHAKHANCHI,Sitganga Municipality,Municipality
+5,ARGHAKHANCHI,Sandhikharka Municipality,Municipality
+5,PALPA,Rambha Rural Municipality,Rural Municipality
+5,PALPA,Tinau Rural Municipality,Rural Municipality
+5,PALPA,Nisdi Rural Municipality,Rural Municipality
+5,PALPA,Mathagadhi Rural Municipality,Rural Municipality
+5,PALPA,Ribdikot Rural Municipality,Rural Municipality
+5,PALPA,Purbakhola Rural Municipality,Rural Municipality
+5,PALPA,Bagnaskali Rural Municipality,Rural Municipality
+5,PALPA,Rainadevi Chhahara Rural Municipality,Rural Municipality
+5,PALPA,Tansen Municipality,Municipality
+5,PALPA,Rampur Municipality,Municipality
+5,NAWALPARASI WEST,Sarawal Rural Municipality,Rural Municipality
+5,NAWALPARASI WEST,Susta Rural Municipality,Rural Municipality
+5,NAWALPARASI WEST,Pratappur Rural Municipality,Rural Municipality
+5,NAWALPARASI WEST,Palhi Nandan Rural Municipality,Rural Municipality
+5,NAWALPARASI WEST,Bardaghat Municipality,Municipality
+5,NAWALPARASI WEST,Sunwal Municipality,Municipality
+5,NAWALPARASI WEST,Ramgram Municipality,Municipality
+5,RUPANDEHI,Kanchan Rural Municipality,Rural Municipality
+5,RUPANDEHI,Siyari Rural Municipality,Rural Municipality
+5,RUPANDEHI,Rohini Rural Municipality,Rural Municipality
+5,RUPANDEHI,Gaidahawa Rural Municipality,Rural Municipality
+5,RUPANDEHI,Omsatiya Rural Municipality,Rural Municipality
+5,RUPANDEHI,Sudhdhodhan Rural Municipality,Rural Municipality
+5,RUPANDEHI,Mayadevi Rural Municipality,Rural Municipality
+5,RUPANDEHI,Marchawari Rural Municipality,Rural Municipality
+5,RUPANDEHI,Kotahimai Rural Municipality,Rural Municipality
+5,RUPANDEHI,Sammarimai Rural Municipality,Rural Municipality
+5,RUPANDEHI,Butwal Sub-Metropolitian City,Sub-Metropolitian City
+5,RUPANDEHI,Lumbini Sanskritik Municipality,Municipality
+5,RUPANDEHI,Devdaha Municipality,Municipality
+5,RUPANDEHI,Sainamaina Municipality,Municipality
+5,RUPANDEHI,Siddharthanagar Municipality,Municipality
+5,RUPANDEHI,Tillotama Municipality,Municipality
+5,KAPILBASTU,Yashodhara Rural Municipality,Rural Municipality
+5,KAPILBASTU,Bijayanagar Rural Municipality,Rural Municipality
+5,KAPILBASTU,Mayadevi Rural Municipality,Rural Municipality
+5,KAPILBASTU,Suddhodhan Rural Municipality,Rural Municipality
+5,KAPILBASTU,Shivaraj Municipality,Municipality
+5,KAPILBASTU,Kapilbastu Municipality,Municipality
+5,KAPILBASTU,Buddhabhumi Municipality,Municipality
+5,KAPILBASTU,Maharajgunj Municipality,Municipality
+5,KAPILBASTU,Banganga Municipality,Municipality
+5,KAPILBASTU,Krishnanagar Municipality,Municipality
+5,DANG,Babai Rural Municipality,Rural Municipality
+5,DANG,Gadhawa Rural Municipality,Rural Municipality
+5,DANG,Rapti Rural Municipality,Rural Municipality
+5,DANG,Rajpur Rural Municipality,Rural Municipality
+5,DANG,Dangisharan Rural Municipality,Rural Municipality
+5,DANG,Shantinagar Rural Municipality,Rural Municipality
+5,DANG,Banglachuli Rural Municipality,Rural Municipality
+5,DANG,Tulsipur Sub-Metropolitian City,Sub-Metropolitian City
+5,DANG,Ghorahi Sub-Metropolitian City,Sub-Metropolitian City
+5,DANG,Lamahi Municipality,Municipality
+5,BANKE,Khajura Rural Municipality,Rural Municipality
+5,BANKE,Janki Rural Municipality,Rural Municipality
+5,BANKE,Baijanath Rural Municipality,Rural Municipality
+5,BANKE,Duduwa Rural Municipality,Rural Municipality
+5,BANKE,Narainapur Rural Municipality,Rural Municipality
+5,BANKE,Rapti Sonari Rural Municipality,Rural Municipality
+5,BANKE,Kohalpur Municipality,Municipality
+5,BANKE,Nepalgunj Sub-Metropolitian City,Sub-Metropolitian City
+5,BARDIYA,Geruwa Rural Municipality,Rural Municipality
+5,BARDIYA,Badhaiyatal Rural Municipality,Rural Municipality
+5,BARDIYA,Thakurbaba Municipality,Municipality
+5,BARDIYA,Bansagadhi Municipality,Municipality
+5,BARDIYA,Barbardiya Municipality,Municipality
+5,BARDIYA,Rajapur Municipality,Municipality
+5,BARDIYA,Madhuwan Municipality,Municipality
+5,BARDIYA,Gulariya Municipality,Municipality
+Karnali,DOLPA,Kaike Rural Municipality,Rural Municipality
+Karnali,DOLPA,Jagadulla Rural Municipality,Rural Municipality
+Karnali,DOLPA,Mudkechula Rural Municipality,Rural Municipality
+Karnali,DOLPA,Dolpo Buddha Rural Municipality,Rural Municipality
+Karnali,DOLPA,Shey Phoksundo Rural Municipality,Rural Municipality
+Karnali,DOLPA,Chharka Tangsong Rural Municipality,Rural Municipality
+Karnali,DOLPA,Tripurasundari Municipality,Municipality
+Karnali,DOLPA,Thuli Bheri Municipality,Municipality
+Karnali,MUGU,Soru Rural Municipality,Rural Municipality
+Karnali,MUGU,Khatyad Rural Municipality,Rural Municipality
+Karnali,MUGU,Mugum Karmarong Rural Municipality,Rural Municipality
+Karnali,MUGU,Chhayanath Rara Municipality,Municipality
+Karnali,HUMLA,Simkot Rural Municipality,Rural Municipality
+Karnali,HUMLA,Namkha Rural Municipality,Rural Municipality
+Karnali,HUMLA,Chankheli Rural Municipality,Rural Municipality
+Karnali,HUMLA,Tanjakot Rural Municipality,Rural Municipality
+Karnali,HUMLA,Sarkegad Rural Municipality,Rural Municipality
+Karnali,HUMLA,Adanchuli Rural Municipality,Rural Municipality
+Karnali,HUMLA,Kharpunath Rural Municipality,Rural Municipality
+Karnali,JUMLA,Hima Rural Municipality,Rural Municipality
+Karnali,JUMLA,Tila Rural Municipality,Rural Municipality
+Karnali,JUMLA,Sinja Rural Municipality,Rural Municipality
+Karnali,JUMLA,Guthichaur Rural Municipality,Rural Municipality
+Karnali,JUMLA,Tatopani Rural Municipality,Rural Municipality
+Karnali,JUMLA,Patrasi Rural Municipality,Rural Municipality
+Karnali,JUMLA,Kanakasundari Rural Municipality,Rural Municipality
+Karnali,JUMLA,Chandannath Municipality,Municipality
+Karnali,KALIKOT,Mahawai Rural Municipality,Rural Municipality
+Karnali,KALIKOT,Palata Rural Municipality,Rural Municipality
+Karnali,KALIKOT,Naraharinath Rural Municipality,Rural Municipality
+Karnali,KALIKOT,Pachaljharana Rural Municipality,Rural Municipality
+Karnali,KALIKOT,Subha Kalika Rural Municipality,Rural Municipality
+Karnali,KALIKOT,Sanni Tribeni Rural Municipality,Rural Municipality
+Karnali,KALIKOT,Khandachakra Municipality,Municipality
+Karnali,KALIKOT,Raskot Municipality,Municipality
+Karnali,KALIKOT,Tilagufa Municipality,Municipality
+Karnali,DAILEKH,Bhairabi Rural Municipality,Rural Municipality
+Karnali,DAILEKH,Mahabu Rural Municipality,Rural Municipality
+Karnali,DAILEKH,Gurans Rural Municipality,Rural Municipality
+Karnali,DAILEKH,Naumule Rural Municipality,Rural Municipality
+Karnali,DAILEKH,Bhagawatimai Rural Municipality,Rural Municipality
+Karnali,DAILEKH,Thantikandh Rural Municipality,Rural Municipality
+Karnali,DAILEKH,Dungeshwor Rural Municipality,Rural Municipality
+Karnali,DAILEKH,Aathabis Municipality,Municipality
+Karnali,DAILEKH,Dullu Municipality,Municipality
+Karnali,DAILEKH,Chamunda Bindrasaini Municipality,Municipality
+Karnali,DAILEKH,Narayan Municipality,Municipality
+Karnali,JAJARKOT,Kuse Rural Municipality,Rural Municipality
+Karnali,JAJARKOT,Shiwalaya Rural Municipality,Rural Municipality
+Karnali,JAJARKOT,Barekot Rural Municipality,Rural Municipality
+Karnali,JAJARKOT,Junichande Rural Municipality,Rural Municipality
+Karnali,JAJARKOT,Nalagad Municipality,Municipality
+Karnali,JAJARKOT,Bheri Municipality,Municipality
+Karnali,JAJARKOT,Chhedagad Municipality,Municipality
+Karnali,RUKUM WEST,Tribeni Rural Municipality,Rural Municipality
+Karnali,RUKUM WEST,Sani Bheri Rural Municipality,Rural Municipality
+Karnali,RUKUM WEST,Banfikot Rural Municipality,Rural Municipality
+Karnali,RUKUM WEST,Aathbiskot Municipality,Municipality
+Karnali,RUKUM WEST,Chaurjahari Municipality,Municipality
+Karnali,RUKUM WEST,Musikot Municipality,Municipality
+Karnali,SALYAN,Kumakh Rural Municipality,Rural Municipality
+Karnali,SALYAN,Darma Rural Municipality,Rural Municipality
+Karnali,SALYAN,Kapurkot Rural Municipality,Rural Municipality
+Karnali,SALYAN,Kalimati Rural Municipality,Rural Municipality
+Karnali,SALYAN,Tribeni Rural Municipality,Rural Municipality
+Karnali,SALYAN,Chhatreshwori Rural Municipality,Rural Municipality
+Karnali,SALYAN,Siddha Kumakh Rural Municipality,Rural Municipality
+Karnali,SALYAN,Sharada Municipality,Municipality
+Karnali,SALYAN,Bangad Kupinde Municipality,Municipality
+Karnali,SALYAN,Bagchaur Municipality,Municipality
+Karnali,SURKHET,Chaukune Rural Municipality,Rural Municipality
+Karnali,SURKHET,Simta Rural Municipality,Rural Municipality
+Karnali,SURKHET,Chingad Rural Municipality,Rural Municipality
+Karnali,SURKHET,Barahtal Rural Municipality,Rural Municipality
+Karnali,SURKHET,Gurbhakot Municipality,Municipality
+Karnali,SURKHET,Panchpuri Municipality,Municipality
+Karnali,SURKHET,Bheriganga Municipality,Municipality
+Karnali,SURKHET,Lekbeshi Municipality,Municipality
+Karnali,SURKHET,Birendranagar Municipality,Municipality
+Sudurpaschim,BAJURA,Gaumul Rural Municipality,Rural Municipality
+Sudurpaschim,BAJURA,Himali Rural Municipality,Rural Municipality
+Sudurpaschim,BAJURA,Jagannath Rural Municipality,Rural Municipality
+Sudurpaschim,BAJURA,Khaptad Chhededaha Rural Municipality,Rural Municipality
+Sudurpaschim,BAJURA,Swami Kartik Khaapar Rural Municipality,Rural Municipality
+Sudurpaschim,BAJURA,Badimalika Municipality,Municipality
+Sudurpaschim,BAJURA,Tribeni Municipality,Municipality
+Sudurpaschim,BAJURA,Budhiganga Municipality,Municipality
+Sudurpaschim,BAJURA,Budhinanda Municipality,Municipality
+Sudurpaschim,BAJHANG,Masta Rural Municipality,Rural Municipality
+Sudurpaschim,BAJHANG,Thalara Rural Municipality,Rural Municipality
+Sudurpaschim,BAJHANG,Talkot Rural Municipality,Rural Municipality
+Sudurpaschim,BAJHANG,Surma Rural Municipality,Rural Municipality
+Sudurpaschim,BAJHANG,SaiPaal Rural Municipality,Rural Municipality
+Sudurpaschim,BAJHANG,Durgathali Rural Municipality,Rural Municipality
+Sudurpaschim,BAJHANG,Bithadchir Rural Municipality,Rural Municipality
+Sudurpaschim,BAJHANG,Kedarseu Rural Municipality,Rural Municipality
+Sudurpaschim,BAJHANG,Khaptadchhanna Rural Municipality,Rural Municipality
+Sudurpaschim,BAJHANG,Chabispathivera Rural Municipality,Rural Municipality
+Sudurpaschim,BAJHANG,JayaPrithivi Municipality,Municipality
+Sudurpaschim,BAJHANG,Bungal Municipality,Municipality
+Sudurpaschim,DARCHULA,Lekam Rural Municipality,Rural Municipality
+Sudurpaschim,DARCHULA,Naugad Rural Municipality,Rural Municipality
+Sudurpaschim,DARCHULA,Byas Rural Municipality,Rural Municipality
+Sudurpaschim,DARCHULA,Dunhu Rural Municipality,Rural Municipality
+Sudurpaschim,DARCHULA,Marma Rural Municipality,Rural Municipality
+Sudurpaschim,DARCHULA,Apihimal Rural Municipality,Rural Municipality
+Sudurpaschim,DARCHULA,Malikaarjun Rural Municipality,Rural Municipality
+Sudurpaschim,DARCHULA,Mahakali Municipality,Municipality
+Sudurpaschim,DARCHULA,Shailyashikhar Municipality,Municipality
+Sudurpaschim,BAITADI,Sigas Rural Municipality,Rural Municipality
+Sudurpaschim,BAITADI,Shivanath Rural Municipality,Rural Municipality
+Sudurpaschim,BAITADI,Surnaya Rural Municipality,Rural Municipality
+Sudurpaschim,BAITADI,Dilasaini Rural Municipality,Rural Municipality
+Sudurpaschim,BAITADI,Pancheshwar Rural Municipality,Rural Municipality
+Sudurpaschim,BAITADI,Dogadakedar Rural Municipality,Rural Municipality
+Sudurpaschim,BAITADI,Melauli Municipality,Municipality
+Sudurpaschim,BAITADI,Dasharathchanda Municipality,Municipality
+Sudurpaschim,BAITADI,Purchaudi Municipality,Municipality
+Sudurpaschim,BAITADI,Patan Municipality,Municipality
+Sudurpaschim,DADELDHURA,Alital Rural Municipality,Rural Municipality
+Sudurpaschim,DADELDHURA,Ajaymeru Rural Municipality,Rural Municipality
+Sudurpaschim,DADELDHURA,Bhageshwar Rural Municipality,Rural Municipality
+Sudurpaschim,DADELDHURA,Nawadurga Rural Municipality,Rural Municipality
+Sudurpaschim,DADELDHURA,Ganayapdhura Rural Municipality,Rural Municipality
+Sudurpaschim,DADELDHURA,Amargadhi Municipality,Municipality
+Sudurpaschim,DADELDHURA,Parashuram Municipality,Municipality
+Sudurpaschim,DOTI,Sayal Rural Municipality,Rural Municipality
+Sudurpaschim,DOTI,Adharsha Rural Municipality,Rural Municipality
+Sudurpaschim,DOTI,Jorayal Rural Municipality,Rural Municipality
+Sudurpaschim,DOTI,Badikedar Rural Municipality,Rural Municipality
+Sudurpaschim,DOTI,Purbichauki Rural Municipality,Rural Municipality
+Sudurpaschim,DOTI,K I Singh Rural Municipality,Rural Municipality
+Sudurpaschim,DOTI,Bogtan Foodsil Rural Municipality,Rural Municipality
+Sudurpaschim,DOTI,Dipayal Silgadi Municipality,Municipality
+Sudurpaschim,DOTI,Shikhar Municipality,Municipality
+Sudurpaschim,ACHHAM,Dhakari Rural Municipality,Rural Municipality
+Sudurpaschim,ACHHAM,Mellekh Rural Municipality,Rural Municipality
+Sudurpaschim,ACHHAM,Chaurpati Rural Municipality,Rural Municipality
+Sudurpaschim,ACHHAM,Ramaroshan Rural Municipality,Rural Municipality
+Sudurpaschim,ACHHAM,Turmakhad Rural Municipality,Rural Municipality
+Sudurpaschim,ACHHAM,Bannigadhi Jayagadh Rural Municipality,Rural Municipality
+Sudurpaschim,ACHHAM,Sanphebagar Municipality,Municipality
+Sudurpaschim,ACHHAM,Mangalsen Municipality,Municipality
+Sudurpaschim,ACHHAM,Kamalbazar Municipality,Municipality
+Sudurpaschim,ACHHAM,Panchadewal Binayak Municipality,Municipality
+Sudurpaschim,KAILALI,Chure Rural Municipality,Rural Municipality
+Sudurpaschim,KAILALI,Janaki Rural Municipality,Rural Municipality
+Sudurpaschim,KAILALI,Kailari Rural Municipality,Rural Municipality
+Sudurpaschim,KAILALI,Joshipur Rural Municipality,Rural Municipality
+Sudurpaschim,KAILALI,Mohanyal Rural Municipality,Rural Municipality
+Sudurpaschim,KAILALI,Bardagoriya Rural Municipality,Rural Municipality
+Sudurpaschim,KAILALI,Tikapur Municipality,Municipality
+Sudurpaschim,KAILALI,Ghodaghodi Municipality,Municipality
+Sudurpaschim,KAILALI,Bhajani Municipality,Municipality
+Sudurpaschim,KAILALI,Dhangadhi Sub-Metropolitian City,Sub-Metropolitian City
+Sudurpaschim,KAILALI,Gauriganga Municipality,Municipality
+Sudurpaschim,KAILALI,Godawari Municipality,Municipality
+Sudurpaschim,KAILALI,Lamkichuha Municipality,Municipality
+Sudurpaschim,KANCHANPUR,Beldandi Rural Municipality,Rural Municipality
+Sudurpaschim,KANCHANPUR,Laljhadi Rural Municipality,Rural Municipality
+Sudurpaschim,KANCHANPUR,Punarbas Municipality,Municipality
+Sudurpaschim,KANCHANPUR,Krishnapur Municipality,Municipality
+Sudurpaschim,KANCHANPUR,Mahakali Municipality,Municipality
+Sudurpaschim,KANCHANPUR,Bedkot Municipality,Municipality
+Sudurpaschim,KANCHANPUR,Belauri Municipality,Municipality
+Sudurpaschim,KANCHANPUR,Bhimdatta Municipality,Municipality
+Sudurpaschim,KANCHANPUR,Shuklaphanta Municipality,Municipality

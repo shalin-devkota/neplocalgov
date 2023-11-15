@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "nepal-local-levels"
+version = "0.1.0"
+description = ""
+authors = ["shalin-devkota <shalin.devkota01@gmail.com>"]
+readme = "README.md"
+packages = [{include = "nepal_local_levels"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+beautifulsoup4 = "^4.12.2"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
