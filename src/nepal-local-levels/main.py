@@ -1,5 +1,4 @@
 import csv
-import json
 
 
 def by_province(province=None):
