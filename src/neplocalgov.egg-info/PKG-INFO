@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: neplocalgov
+Version: 1.2.2
+Summary: A python package to retreive data on Nepal local government levels.
+Home-page: https://github.com/shalin-devkota/nepal-local-levels
+Author: shalin-devkota
+Author-email: shalin.devkota01@gmail.com
+Project-URL: Bug Tracker, https://github.com/shalin-devkota/nepal-local-levels/issues
+Project-URL: repository, https://github.com/shalin-devkota/nepal-local-levels
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+## Nepal Local Governments
+
+This is a simple package to get a list of local levels in Nepal (Rural Municipality,  Municipality and Metropolitian City) based on a given Province number/name or District name.
+
+## Installation
+
+You can install the package from PyPI using pip:
+```
+pip install neplocalgov
+```
+## Usage
+The package contains only two simple functions  shown below
+
+```
+from neplocalgov import by_province, by_district
+
+print(by_province(province="1")
+print(by_district(district="Kathmandu")
+```
+If the supplied province / district is not valid, it returns Null. If data is found, it is returned as a list of dictionaries
+
+## Contributions
+
+Contributions to this project are welcome! Please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT LICENSE.
+
+## Contact
+
+For any queries or feedback, please contact [Shalin Devkota](mailto:youremail@example.com).
